@@ -1,0 +1,12 @@
+./log
+.idea
+**/*.exe
+**/*.log
+/bin
+*.log.*
+build
+.DS_Store
+
+vendor
+test*.txt
+__pycache__
